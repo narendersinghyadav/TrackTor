@@ -1,0 +1,37 @@
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0022)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0020)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0024)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0033)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0022)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0027)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0019)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0025)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0019)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0031)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0024)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0022)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0020)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0025)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0028)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0019)
+DEBUG:TrackTor:proc call (connections for pid 11753): /proc/net/[tcp|udp] (runtime: 0.0016)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11753): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11753/fd'

@@ -1,0 +1,57 @@
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0028)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0021)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0038)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0028)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0019)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 456): /proc/net/[tcp|udp] (runtime: 0.0017)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 456): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/456/fd'

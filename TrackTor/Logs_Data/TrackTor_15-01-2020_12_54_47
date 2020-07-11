@@ -1,0 +1,6 @@
+DEBUG:TrackTor:proc call (connections for pid 17757): /proc/net/[tcp|udp] (runtime: 0.0023)
+DEBUG:TrackTor:proc call (connections for pid 17757): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 17757): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 17757): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 17757): /proc/net/[tcp|udp] (runtime: 0.0024)
+DEBUG:TrackTor:proc call (connections for pid 17757): /proc/net/[tcp|udp] (runtime: 0.0013)

@@ -1,0 +1,45 @@
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0020)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0038)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0038)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0039)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0020)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 2273): /proc/net/[tcp|udp] (runtime: 0.0015)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 2273): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/2273/fd'

@@ -1,0 +1,4 @@
+DEBUG:TrackTor:proc call (connections for pid 19426): /proc/net/[tcp|udp] (runtime: 0.0042)
+DEBUG:TrackTor:proc call (connections for pid 19426): /proc/net/[tcp|udp] (runtime: 0.0027)
+DEBUG:TrackTor:proc call (connections for pid 19426): /proc/net/[tcp|udp] (runtime: 0.0032)
+DEBUG:TrackTor:proc call (connections for pid 19426): /proc/net/[tcp|udp] (runtime: 0.0042)

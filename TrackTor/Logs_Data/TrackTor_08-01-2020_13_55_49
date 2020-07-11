@@ -1,0 +1,45 @@
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0018)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0013)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0026)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0023)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0022)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0024)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0014)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0029)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0028)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0015)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0018)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0016)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0017)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0018)
+DEBUG:TrackTor:proc call (connections for pid 11449): /proc/net/[tcp|udp] (runtime: 0.0016)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
+DEBUG:TrackTor:proc call failed (connections for pid 11449): Unable to read our file descriptors: [Errno 2] No such file or directory: '/proc/11449/fd'
